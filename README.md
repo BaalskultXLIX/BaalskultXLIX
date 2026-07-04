@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m BaalskultXLIX and i can not programming 
+I’m BaalskultXLIX and i can't program.
 
 
 <!--
